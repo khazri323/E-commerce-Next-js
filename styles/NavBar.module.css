@@ -1,0 +1,32 @@
+.nav{
+    background-color: #545a60;
+} 
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.container ul{
+    display: flex;
+}
+
+.container ul li {
+    margin-left: 40px;
+}
+
+.container li a {
+    color: #C70039;
+}
+
+.container .logo{
+    margin-top: 10px;
+}
+
+.container .logo_text{
+    font-size: 20px;
+    font-weight: bold;
+    color: #C70039;
+}

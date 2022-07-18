@@ -1,0 +1,22 @@
+.products{
+   padding: 5px 5px;
+    text-align: center;
+
+    width: 300px;
+    height: 400px;
+ 
+}
+
+.button{
+    padding: 10px 10px;
+    background-color: #C70039;
+    color: #fff;
+    border-radius: 10px;
+
+}
+
+.price{
+    font-weight: bold;
+    margin: 10px 0px;
+    
+}
